@@ -1,0 +1,12 @@
+1. Program: sort1
+   Algorithm: Bubble Sort
+   Explanation: The program repeatedly compares adjacent elements and swaps them if they are out of order, leading to the smaller elements bubbling to the top of the list.
+
+2. Program: sort2
+   Algorithm: Selection Sort
+   Explanation: The program finds the smallest element in the unsorted portion and swaps it with the first unsorted element, placing it in its final position one by one.
+
+3. Program: sort3
+   Algorithm: Merge Sort
+   Explanation: The program divides the array into halves, recursively sorts each half, and merges them back together, resulting in a more uniform sorting behavior.
+
